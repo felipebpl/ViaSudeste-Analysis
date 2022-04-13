@@ -28,6 +28,6 @@ Realizar uma segmentação dos clientes, tendo como objetivo identificar grupos 
 
 
 ## Estratégia
-Dividir taxa de aprovação por tipo de meio de pagamento.
-Correlação entre tráfego e transações
-Taxa de conversão (Média no Brasil até 2020 era de 1,66%)
+- Dividir taxa de aprovação por tipo de meio de pagamento.
+- Correlação entre tráfego e transações
+  - Taxa de conversão (Média no Brasil até 2020 era de 1,66%)
