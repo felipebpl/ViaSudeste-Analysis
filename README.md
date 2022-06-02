@@ -33,3 +33,6 @@ Realizar uma segmentação dos clientes, tendo como objetivo **identificar grupo
 - Correlação entre tráfego e transações 
     - Taxa de conversão (Média no Brasil até 2020 era de 1,66%) 
 
+### Dashboard - Power BI
+![image](https://user-images.githubusercontent.com/62957465/171536157-74d0caf1-d3b8-473d-bafa-603a90f6027e.png)
+
